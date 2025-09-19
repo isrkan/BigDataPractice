@@ -26,7 +26,9 @@ This folder contains subfolders for practicing with different types of databases
 #### NoSQL
 - **MongoDB**: Practicing NoSQL operations and database management using Python.
 - **Neo4j**: Practicing graph database operations and management using Python.
-- **FAISS**: Practicing with vector databases for similarity search and retrieval using Python.
+- Vector databases
+    - **FAISS**: Practicing with vector databases for similarity search and retrieval using Python.
+    - **ChromaDB**: Practicing with ChromaDB for managing and searching vector embeddings using Python.
 
 ## Purpose
 
